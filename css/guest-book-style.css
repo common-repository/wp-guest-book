@@ -1,0 +1,52 @@
+input[type="text"], input[type="email"], input[type="url"], input[type="password"], input[type="search"], textarea {
+  
+}
+button, input, select, textarea {
+  background-color: #f7f7f7;
+  border-radius: 0;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  margin: 0;
+  max-width: 100%;
+  vertical-align: baseline;
+}
+#guest_name {padding: 0.5278em !important;
+  width: 100% !important;}
+label #guest_name {margin-top:10px;margin-bottom: 5px;}
+
+#guest_email {padding: 0.5278em !important;
+  width: 100% !important;}
+label #guest_email {margin-top:10px;margin-bottom: 5px;}
+
+#guest_website {padding: 0.5278em !important;
+  width: 100% !important;}
+label #guest_website {margin-top:10px;margin-bottom: 5px;}
+
+#guest_fb {padding: 0.5278em !important;
+  width: 100% !important;}
+label #guest_fb {margin-top:10px;margin-bottom: 5px;}
+
+#guest_tw {padding: 0.5278em !important;
+  width: 100% !important;}
+label #guest_tw {margin-top:10px;margin-bottom: 5px;}
+
+#guest_title {padding: 0.5278em !important;
+  width: 100% !important;}
+label #guest_title {margin-top:10px;margin-bottom: 5px;}
+
+#guest_book_type {width: 100%;margin-top:10px;margin-bottom: 10px;}
+label #guest_book_type{margin-top:10px;margin-bottom: 5px;}
+
+#detail_review {width: 100%;margin-top:10px;margin-bottom: 10px;}
+#detail_review label {margin-top:10px;margin-bottom: 5px;}
+
+#guest_book_button {font-size: 1.6rem;
+padding: 0.8125em 1.625em;line-height: normal;margin-top: 10px;background-color: #f7f7f7;
+  border-radius: 0;}
+
+.ValidationErrors {color: red;}
+.ErrorField{border: 2px solid red;}
+
+
+.guest_title{font-size: 18px;font-weight: bold;color: black;}
+
